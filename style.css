@@ -86,3 +86,11 @@ span {
   margin: 10px 0px 50px;
   max-width: 580px;
 }
+
+.col-2 .btn {
+  margin-left: 0;
+  margin-right: 30px;
+  background: #fff;
+  color: #4d19db;
+  font-weight: 500;
+}
