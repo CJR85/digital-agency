@@ -77,3 +77,12 @@ a {
   font-size: 62px;
   font-weight: 600;
 }
+
+span {
+  color: yellow;
+}
+
+.col-2 p {
+  margin: 10px 0px 50px;
+  max-width: 580px;
+}
