@@ -61,6 +61,7 @@ a {
   flex-basis: 40%;
   min-width: 300px;
   margin-bottom: 30px;
+  position: relative;
 }
 
 .col-2 {
@@ -93,4 +94,10 @@ span {
   background: #fff;
   color: #4d19db;
   font-weight: 500;
+}
+
+.elements {
+  position: absolute;
+  left: 0;
+  top: 0;
 }
